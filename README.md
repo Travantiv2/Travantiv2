@@ -1,4 +1,4 @@
-# 👋 What’s up, I’m Travanti
+# 👋 What’s up, I’m Travanti (Truh-vaughn-tea)
 
 🎓 Student @ University of Advancing Technology  
 🤖 Future Robotics Engineer | Always Learning | Building Cool Stuff
@@ -26,7 +26,7 @@ More coming soon — I’m working on doing at least one cool Python project eve
 ## 🔧 Right Now I’m Focused On:
 
 - Getting stronger with **Python** through weekly challenges
-- Stepping up my **C#** and learning how to build better applications
+- Stepping up my **C#** and learning how to use it outside of unity
 - Exploring file handling, GUIs, and real-world problem-solving
 - Becoming the kind of developer who actually finishes their ideas 💀
 
