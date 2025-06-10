@@ -1,4 +1,4 @@
-# 👋 What’s up, I’m Travantiv2
+# 👋 What’s up, I’m Travanti
 
 🎓 Student @ University of Advancing Technology  
 🤖 Future Robotics Engineer | Always Learning | Building Cool Stuff
