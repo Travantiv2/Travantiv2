@@ -34,7 +34,7 @@ More coming soon! I’m working on doing at least one cool Python project every 
 
 ## 🎮 Some Fun Stuff
 
-- I’ve been into games since forever — it’s what got me curious about how things work under the hood
+- I’ve always been curious on how things worked, thats what drew me to robotics.. let alone coding 
 - I like projects that are both creative and logical
 - I’m working toward a career in robotics, and I want to help build things that make life better
 
